@@ -2,4 +2,4 @@
 cmds = []
 
 [start]
-cmd = "npx serve -s ."
+cmd = "npx serve -l 4173 -s ."
